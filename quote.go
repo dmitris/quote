@@ -9,7 +9,7 @@ import "rsc.io/quote/v3"
 
 // Hello returns a greeting.
 func Hello() string {
-	return quote.HelloV3()
+	return Glass()
 }
 
 // Glass returns a useful phrase for world travelers.
